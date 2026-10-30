@@ -1,0 +1,7 @@
+node_modules/
+__pycache__/
+*.hwpx
+*.pdf
+*.png
+package-lock.json
+package.json
